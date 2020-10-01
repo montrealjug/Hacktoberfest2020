@@ -22,3 +22,7 @@ Repo to try PR for Hacktoberfest
 * [Eclipse RDF4J](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest+org%3Aeclipse&type=Issues)
 * [Kudo](https://github.com/kudobuilder/kudo/labels/Hacktoberfest)
 * [Earthly](https://github.com/earthly/earthly/labels/hacktoberfest)
+
+## Pull request
+
+* [ByteBuddy](https://github.com/raphw/byte-buddy/pull/935)
