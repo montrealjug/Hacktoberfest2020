@@ -4,6 +4,7 @@ Repo to try PR for Hacktoberfest
 ## Participants
 
 * [Anthony Dahanne](https://github.com/anthonydahanne)
+* [German]
 * [Marion Felix](https://github.com/marionFlx)
 * [Marc Leroux](https://github.com/Ckram)
 
