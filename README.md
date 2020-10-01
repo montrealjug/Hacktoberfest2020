@@ -6,6 +6,7 @@ Repo to try PR for Hacktoberfest
 * [Anthony Dahanne](https://github.com/anthonydahanne)
 * [Marion Felix](https://github.com/marionFlx)
 * [Marc Leroux](https://github.com/Ckram)
+* [Souleymane H. Mato](https://github.com/souleymatoo)
 
 ## Projets considérés
 
