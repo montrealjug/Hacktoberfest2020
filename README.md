@@ -4,10 +4,11 @@ Repo to try PR for Hacktoberfest
 ## Participants
 
 * [Anthony Dahanne](https://github.com/anthonydahanne)
-* [German]
-* [Marion Felix](https://github.com/marionFlx)
+* German
 * [Marc Leroux](https://github.com/Ckram)
+* [Marion Felix](https://github.com/marionFlx)
 * [Roan Brasil Monteiro](https://github.com/roanbrasil)
+* [Souleymane H. Mato](https://github.com/souleymatoo)
 * [Xavier Bouclet](https://github.com/mikrethor)
 
 ## Projets considérés
