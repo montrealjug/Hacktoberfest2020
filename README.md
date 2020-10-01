@@ -8,6 +8,7 @@ Repo to try PR for Hacktoberfest
 * [Marion Felix](https://github.com/marionFlx)
 * [Marc Leroux](https://github.com/Ckram)
 * [Roan Brasil Monteiro](https://github.com/roanbrasil)
+* [Xavier Bouclet](https://github.com/mikrethor)
 
 ## Projets considérés
 
