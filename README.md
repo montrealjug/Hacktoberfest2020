@@ -1,5 +1,8 @@
 # Hacktoberfest2020
-Repo to try PR for Hacktoberfest
+Repo to try PRs for Hacktoberfest Event
+
+## Link
+[Slides of the meetup](https://docs.google.com/presentation/d/1RhOYm_UYSiqgPsshSSjdue--UI_Ncem_Zi7ZMqeaWxY/edit#slide=id.g9c7cc6c574_0_207)
 
 ## Participants
 
