@@ -26,3 +26,5 @@ Repo to try PR for Hacktoberfest
 ## Pull request
 
 * [ByteBuddy](https://github.com/raphw/byte-buddy/pull/935)
+* [Hazelcast](https://github.com/hazelcast/hazelcast-nodejs-client/pull/624)
+* [MyLibreLab](https://github.com/moralesg/MyLibreLab/pull/1)
